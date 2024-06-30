@@ -1,0 +1,501 @@
+PatientID,Age,ACategory,Gender,HeartRate,HRCategory,BloodPressure,SystolicPressure,DiastolicPressure,BPCategory,RespiratoryRate,RRCategory,BodyTemperature,BTCategory,ActivityLevel,OxygenSaturation,OSCategory,SleepQuality,StressLevel,Timestamp
+1,69,Senior,Male,60.99342830602247,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.88523550950632,Fever,resting,95.0,Normal,excellent,low,2024-04-26 17:28:55.286711
+2,32,Adult,Male,98.72347139765763,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.28188332809404,Normal,walking,97.0,Normal,good,high,2024-04-26 17:23:55.286722
+3,78,Senior,Female,82.29537707620139,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.82028648523617,Fever,resting,98.0,Normal,fair,high,2024-04-26 17:18:55.286726
+4,38,Adult,Female,80.0,Normal,111/78,111,78,Normal,19,High,98.41259384733812,Normal,running,98.0,Normal,poor,moderate,2024-04-26 17:13:55.286728
+5,41,Adult,Male,87.53169325055333,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,99.36987148617564,Fever,resting,98.0,Normal,good,low,2024-04-26 17:08:55.286731
+6,20,Adult,Male,66.53172608610164,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,99.00257492324704,Fever,walking,97.0,Normal,fair,moderate,2024-04-26 17:03:55.286735
+7,39,Adult,Female,73.15842563101478,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.28152121515224,Normal,walking,98.0,Normal,poor,moderate,2024-04-26 16:58:55.286738
+8,70,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,17,High,99.02720184606405,Fever,walking,94.0,Low,good,high,2024-04-26 16:53:55.286740
+9,19,Adult,Female,95.0610512281301,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.60970432558896,Fever,resting,99.0,Normal,good,low,2024-04-26 16:48:55.286743
+10,47,Adult,Male,74.08512008717193,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.8338099767178,Fever,running,97.0,Normal,fair,low,2024-04-26 16:43:55.286745
+11,55,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.85409136515597,Fever,running,96.0,Normal,poor,low,2024-04-26 16:38:55.286748
+12,19,Adult,Female,88.06854049285948,Normal,111/74,111,74,Normal,12,Normal,98.18995237811018,Normal,resting,99.0,Normal,poor,low,2024-04-26 16:33:55.286751
+13,81,Senior,Male,94.48392454313206,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,98.25221039062671,Normal,walking,95.0,Normal,good,moderate,2024-04-26 16:28:55.286753
+14,77,Senior,Female,76.1734395106844,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.91848726759169,Fever,running,96.0,Normal,good,moderate,2024-04-26 16:23:55.286756
+15,38,Adult,Male,92.55016433497391,Normal,109/75,109,75,Normal,19,High,98.28464573388634,Normal,walking,99.0,Normal,good,high,2024-04-26 16:18:55.286758
+16,50,Adult,Male,62.875424941518055,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.55107824516516,Normal,resting,96.0,Normal,poor,moderate,2024-04-26 16:13:55.286760
+17,75,Senior,Male,75.97433775933115,Normal,122/85,122,85,High Blood Pressure (Hypertension) Stage 1,20,High,98.20018343752488,Normal,walking,96.0,Normal,fair,moderate,2024-04-26 16:08:55.286763
+18,39,Adult,Female,80.0,Normal,106/73,106,73,Normal,12,Normal,98.60448895104028,Fever,running,96.0,Normal,fair,high,2024-04-26 16:03:55.286766
+19,66,Senior,Male,71.18395184895758,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.60916660783991,Fever,running,96.0,Normal,poor,high,2024-04-26 15:58:55.286768
+20,76,Senior,Male,82.17539259732942,Normal,108/67,108,67,Normal,23,High,98.25027742467437,Normal,walking,96.0,Normal,excellent,high,2024-04-26 15:53:55.286770
+21,59,Adult,Male,65.93129753784311,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.26611894377572,Normal,resting,99.0,Normal,fair,moderate,2024-04-26 15:48:55.286773
+22,77,Senior,Male,83.54844739902693,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,99.40867203847598,Fever,walking,96.0,Normal,good,moderate,2024-04-26 15:43:55.286775
+23,32,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.46747524821085,Normal,resting,97.0,Normal,excellent,high,2024-04-26 15:38:55.286778
+24,79,Senior,Female,98.15050362757307,Normal,116/73,116,73,Normal,21,High,98.91411973371864,Fever,walking,96.0,Normal,excellent,high,2024-04-26 15:33:55.286780
+25,79,Senior,Male,82.91123455094963,Normal,130/83,130,83,High Blood Pressure (Hypertension) Stage 1,23,High,97.94734816869148,Normal,running,96.0,Normal,fair,high,2024-04-26 15:28:55.286783
+26,64,Adult,Female,77.22184517941973,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,98.4390235798671,Normal,resting,96.0,Normal,excellent,moderate,2024-04-26 15:23:55.286786
+27,79,Senior,Male,96.6980128451554,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.17449151242336,Normal,resting,96.0,Normal,excellent,moderate,2024-04-26 15:18:55.286789
+28,68,Senior,Male,67.75139603669135,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,99.10961698933228,Fever,resting,97.0,Normal,fair,low,2024-04-26 15:13:55.286791
+29,72,Senior,Male,96.7987226201624,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,22,High,99.2519445003443,Fever,running,96.0,Normal,fair,moderate,2024-04-26 15:08:55.286794
+30,81,Senior,Female,98.41661250041344,Normal,138/74,138,74,High Blood Pressure (Hypertension) Stage 1,18,High,98.60916660783991,Fever,walking,96.0,Normal,excellent,moderate,2024-04-26 15:03:55.286796
+31,20,Adult,Female,71.7965867755412,Normal,103/88,103,88,High Blood Pressure (Hypertension) Stage 1,13,Normal,99.02771849175548,Fever,running,95.0,Normal,good,moderate,2024-04-26 14:58:55.286799
+32,68,Senior,Female,94.70455636901788,Normal,124/72,124,72,Elevated,19,High,98.4676959875462,Normal,resting,97.0,Normal,poor,high,2024-04-26 14:53:55.286801
+33,24,Adult,Female,80.0,Normal,132/75,132,75,High Blood Pressure (Hypertension) Stage 1,22,High,98.68678404027054,Fever,walking,96.0,Normal,excellent,moderate,2024-04-26 14:48:55.286804
+34,38,Adult,Female,94.8845781420882,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.15779676004752,Normal,running,96.0,Normal,excellent,high,2024-04-26 14:43:55.286807
+35,56,Adult,Female,93.64508982420638,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.66963277843956,Fever,resting,96.0,Normal,good,low,2024-04-26 14:38:55.286809
+36,35,Adult,Female,79.55831270005795,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.50947973426328,Normal,resting,96.0,Normal,excellent,low,2024-04-26 14:33:55.286812
+37,21,Adult,Female,74.41772719000951,Normal,129/72,129,72,Elevated,12,Normal,98.5279173269432,Normal,running,95.0,Normal,excellent,high,2024-04-26 14:28:55.286815
+38,77,Senior,Female,88.08065975224045,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,99.22308889115403,Fever,running,96.0,Normal,poor,high,2024-04-26 14:23:55.286818
+39,31,Adult,Male,81.34362790220314,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,98.30125856184289,Normal,running,96.0,Normal,poor,high,2024-04-26 14:18:55.286821
+40,26,Adult,Female,76.39372247173824,Normal,138/88,138,88,High Blood Pressure (Hypertension) Stage 1,19,High,99.08462162609536,Fever,resting,94.0,Low,poor,moderate,2024-04-26 14:13:55.286823
+41,70,Senior,Female,93.47693315999082,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,99.46713842241304,Fever,running,96.0,Normal,fair,low,2024-04-26 14:08:55.286826
+42,19,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.27405862906848,Normal,resting,95.0,Normal,fair,high,2024-04-26 14:03:55.286829
+43,77,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,97.60596083558306,Normal,running,98.0,Normal,poor,moderate,2024-04-26 13:58:55.286831
+44,61,Adult,Female,60.39779260882142,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.58831372413158,Normal,resting,94.0,Low,poor,low,2024-04-26 13:53:55.286834
+45,25,Adult,Female,70.04295601926515,Normal,104/60,104,60,Normal,18,High,98.70567109997457,Fever,resting,94.0,Low,fair,moderate,2024-04-26 13:48:55.286836
+46,64,Adult,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.4406209489059,Normal,walking,96.0,Normal,good,low,2024-04-26 13:43:55.286839
+47,52,Adult,Female,98.07872245808042,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.21541442543612,Normal,running,96.0,Normal,excellent,moderate,2024-04-26 13:38:55.286842
+48,53,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.2593909227914,Normal,running,96.0,Normal,excellent,low,2024-04-26 13:33:55.286845
+49,67,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,99.07422917467426,Fever,resting,94.0,Low,poor,low,2024-04-26 13:28:55.286847
+50,21,Adult,Female,94.47391968927454,Normal,124/60,124,60,Elevated,18,High,98.77920296265684,Fever,resting,99.0,Normal,good,moderate,2024-04-26 13:23:55.286850
+51,19,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.51731795749458,Normal,resting,96.0,Normal,fair,high,2024-04-26 13:18:55.286852
+52,23,Adult,Male,64.22983543916737,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.3688645529216,Normal,walking,95.0,Normal,poor,low,2024-04-26 13:13:55.286854
+53,71,Senior,Female,63.646155999388085,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.63355641233196,Fever,walking,99.0,Normal,good,high,2024-04-26 13:08:55.286857
+54,21,Adult,Female,63.22335257768174,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.15088416866024,Normal,resting,96.0,Normal,good,moderate,2024-04-26 13:03:55.286860
+55,71,Senior,Male,68.06199904499191,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,99.46752053241504,Fever,running,97.0,Normal,good,high,2024-04-26 12:58:55.286862
+56,80,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,98.31762460677552,Normal,running,97.0,Normal,fair,high,2024-04-26 12:53:55.286865
+57,35,Adult,Male,65.32156495355473,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,99.1024787551855,Fever,walking,96.0,Normal,fair,high,2024-04-26 12:48:55.286867
+58,61,Adult,Male,75.0,Normal,138/83,138,83,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.31348836243608,Fever,walking,96.0,Normal,excellent,high,2024-04-26 12:43:55.286870
+59,51,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,99.17889042847564,Fever,resting,98.0,Normal,excellent,high,2024-04-26 12:38:55.286872
+60,79,Senior,Male,75.95109025424472,Normal,124/66,124,66,Elevated,16,Normal,98.31580310383596,Normal,running,98.0,Normal,good,low,2024-04-26 12:33:55.286875
+61,31,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.85795497137929,Fever,resting,96.0,Normal,good,low,2024-04-26 12:28:55.286877
+62,65,Senior,Female,87.62868204667237,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,99.01508015972908,Fever,walking,96.0,Normal,fair,low,2024-04-26 12:23:55.286880
+63,32,Adult,Male,89.78733005198794,Normal,119/88,119,88,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.27422494068634,Normal,running,98.0,Normal,excellent,moderate,2024-04-26 12:18:55.286882
+64,79,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,22,High,98.73479529356644,Fever,running,97.0,Normal,good,high,2024-04-26 12:13:55.286884
+65,57,Adult,Female,90.6250516447884,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.2402427844328,Normal,walking,95.0,Normal,excellent,low,2024-04-26 12:08:55.286887
+66,70,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,99.11838492539567,Fever,resting,94.0,Low,excellent,moderate,2024-04-26 12:03:55.286890
+67,41,Adult,Male,85.85597975683933,Normal,105/64,105,64,Normal,18,High,97.99237509296444,Normal,resting,96.0,Normal,good,low,2024-04-26 11:58:55.286893
+68,43,Adult,Female,97.00706579578404,Normal,104/82,104,82,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.49838273781651,Normal,running,97.0,Normal,fair,low,2024-04-26 11:53:55.286895
+69,77,Senior,Male,88.72327205009528,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,98.32584161579484,Normal,walking,95.0,Normal,good,high,2024-04-26 11:48:55.286898
+70,58,Adult,Male,95.70976049078976,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.42969730319174,Normal,running,95.0,Normal,good,moderate,2024-04-26 11:43:55.286901
+71,46,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.90368367583793,Fever,walking,94.0,Low,excellent,high,2024-04-26 11:38:55.286903
+72,32,Adult,Female,95.07607313293194,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.73528746245506,Fever,resting,95.0,Normal,good,high,2024-04-26 11:33:55.286906
+73,62,Adult,Male,95.9283479217801,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.06538547475284,Fever,walking,94.0,Low,fair,low,2024-04-26 11:28:55.286909
+74,82,Senior,Female,89.12928731162802,Normal,112/84,112,84,High Blood Pressure (Hypertension) Stage 1,16,Normal,97.85617989423824,Normal,resting,98.0,Normal,good,high,2024-04-26 11:23:55.286912
+75,26,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.86588111623672,Fever,walking,96.0,Normal,fair,moderate,2024-04-26 11:18:55.286915
+76,18,Adult,Male,93.64380500875043,Normal,110/70,110,70,Normal,19,High,99.15777293819842,Fever,running,97.0,Normal,fair,high,2024-04-26 11:13:55.286917
+77,25,Adult,Male,63.17409413647634,Normal,110/62,110,62,Normal,21,High,98.14712291162172,Normal,resting,96.0,Normal,excellent,high,2024-04-26 11:08:55.286920
+78,80,Senior,Female,80.40198529906826,Normal,128/68,128,68,Elevated,17,High,98.45417303877738,Normal,running,96.0,Normal,poor,high,2024-04-26 11:03:55.286924
+79,28,Adult,Female,61.183521553071,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.60428275084404,Fever,running,97.0,Normal,poor,low,2024-04-26 10:58:55.286928
+80,25,Adult,Female,65.02486217079822,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.92875080864138,Fever,resting,94.0,Low,excellent,moderate,2024-04-26 10:53:55.286930
+81,52,Adult,Female,63.56065622432497,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.86769928149889,Fever,resting,97.0,Normal,good,low,2024-04-26 10:48:55.286933
+82,52,Adult,Female,80.0,Normal,124/64,124,64,Elevated,19,High,98.71694241721984,Fever,running,98.0,Normal,excellent,low,2024-04-26 10:43:55.286936
+83,50,Adult,Male,71.95578808948304,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,99.02655637322128,Fever,running,94.0,Low,fair,low,2024-04-26 10:38:55.286939
+84,22,Adult,Male,90.9634595634527,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.60916660783991,Fever,running,96.0,Normal,poor,low,2024-04-26 10:33:55.286942
+85,58,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.8363732510117,Fever,running,96.0,Normal,excellent,low,2024-04-26 10:28:55.286945
+86,45,Adult,Male,95.99648591283092,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.54964411726009,Normal,resting,96.0,Normal,good,moderate,2024-04-26 10:23:55.286948
+87,24,Adult,Female,73.83080423540414,Normal,117/65,117,65,Normal,14,Normal,98.80812782009195,Fever,resting,99.0,Normal,excellent,high,2024-04-26 10:18:55.286950
+88,29,Adult,Male,90.65750221931935,Normal,136/72,136,72,High Blood Pressure (Hypertension) Stage 1,12,Normal,99.33003112610704,Fever,running,99.0,Normal,poor,low,2024-04-26 10:13:55.286953
+89,51,Adult,Female,80.0,Normal,127/64,127,64,Elevated,15,Normal,98.66606716330884,Fever,walking,97.0,Normal,excellent,low,2024-04-26 10:08:55.286955
+90,50,Adult,Male,96.02653486622673,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,97.92878323481824,Normal,walking,96.0,Normal,excellent,moderate,2024-04-26 10:03:55.286958
+91,65,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,99.21431324744388,Fever,resting,94.0,Low,poor,moderate,2024-04-26 09:58:55.286961
+92,40,Adult,Female,84.93728998106577,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.40446851064698,Normal,running,95.0,Normal,fair,high,2024-04-26 09:53:55.286963
+93,79,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,97.59579596514928,Normal,running,94.0,Low,fair,moderate,2024-04-26 09:48:55.286966
+94,54,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,99.0667324210574,Fever,resting,95.0,Normal,poor,high,2024-04-26 09:43:55.286968
+95,61,Adult,Male,73.21578369373569,Normal,139/86,139,86,High Blood Pressure (Hypertension) Stage 1,18,High,98.50750798885156,Normal,walking,96.0,Normal,excellent,low,2024-04-26 09:38:55.286971
+96,52,Adult,Male,85.07297010373577,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.49799672022904,Normal,walking,96.0,Normal,poor,low,2024-04-26 09:33:55.286973
+97,82,Senior,Female,67.59224055412915,Normal,105/83,105,83,High Blood Pressure (Hypertension) Stage 1,21,High,98.74602501294132,Fever,walking,95.0,Normal,fair,high,2024-04-26 09:28:55.286975
+98,64,Adult,Male,64.52211054435978,Normal,118/75,118,75,Normal,16,Normal,98.50424725684354,Normal,resting,96.0,Normal,good,moderate,2024-04-26 09:23:55.286978
+99,20,Adult,Male,88.01022691328492,Normal,139/87,139,87,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.91114134798478,Fever,walking,94.0,Low,excellent,high,2024-04-26 09:18:55.286980
+100,18,Adult,Female,80.0,Normal,110/70,110,70,Normal,23,High,98.47546009860898,Normal,resting,96.0,Normal,fair,moderate,2024-04-26 09:13:55.286983
+101,22,Adult,Male,60.16925851589917,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,99.05139772332907,Fever,resting,96.0,Normal,excellent,low,2024-04-26 09:08:55.286985
+102,31,Adult,Male,70.15870935446928,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.31556693516448,Normal,running,96.0,Normal,poor,moderate,2024-04-26 09:03:55.286988
+103,44,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,99.17392118402113,Fever,walking,96.0,Normal,good,high,2024-04-26 08:58:55.286990
+104,26,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,99.171127571761,Fever,resting,98.0,Normal,poor,high,2024-04-26 08:53:55.286993
+105,32,Adult,Male,85.67742857666798,Normal,104/90,104,90,High Blood Pressure (Hypertension) Stage 2,16,Normal,98.18268698064472,Normal,walking,94.0,Low,good,low,2024-04-26 08:48:55.286996
+106,59,Adult,Female,90.80810171362909,Normal,122/69,122,69,Elevated,23,High,99.4753591625116,Fever,walking,97.0,Normal,excellent,moderate,2024-04-26 08:43:55.286998
+107,68,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.14524216017928,Normal,running,94.0,Low,excellent,moderate,2024-04-26 08:38:55.287001
+108,80,Senior,Male,75.0,Normal,138/90,138,90,High Blood Pressure (Hypertension) Stage 1,22,High,98.75106905933772,Fever,walking,99.0,Normal,poor,moderate,2024-04-26 08:33:55.287003
+109,69,Senior,Male,95.51510078144553,Normal,101/73,101,73,Normal,21,High,98.44425595021914,Normal,running,96.0,Normal,good,low,2024-04-26 08:28:55.287006
+110,21,Adult,Male,94.85110816846766,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.60916660783991,Fever,resting,94.0,Low,good,moderate,2024-04-26 08:23:55.287009
+111,40,Adult,Male,81.16245756940192,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.63087313127082,Fever,walking,99.0,Normal,excellent,high,2024-04-26 08:18:55.287012
+112,32,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.38888306581792,Normal,resting,97.0,Normal,poor,moderate,2024-04-26 08:13:55.287015
+113,60,Adult,Male,86.12046041988205,Normal,112/86,112,86,High Blood Pressure (Hypertension) Stage 1,18,High,98.65599372526395,Fever,walking,95.0,Normal,good,low,2024-04-26 08:08:55.287017
+114,46,Adult,Female,68.92648422497058,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.17490219054034,Normal,resting,96.0,Normal,excellent,moderate,2024-04-26 08:03:55.287020
+115,53,Adult,Female,78.61527807043775,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,99.48915039592336,Fever,walking,97.0,Normal,fair,moderate,2024-04-26 07:58:55.287023
+116,30,Adult,Male,70.60309468466723,Normal,134/65,134,65,High Blood Pressure (Hypertension) Stage 1,19,High,97.82584423639504,Normal,walking,96.0,Normal,poor,high,2024-04-26 07:53:55.287025
+117,49,Adult,Male,68.9305764605895,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.12187895892096,Normal,walking,96.0,Normal,fair,moderate,2024-04-26 07:48:55.287028
+118,76,Senior,Male,96.66264392476094,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,98.24515332477974,Normal,walking,95.0,Normal,poor,high,2024-04-26 07:43:55.287030
+119,45,Adult,Male,99.28564562903004,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,99.19620184634734,Fever,walking,96.0,Normal,excellent,high,2024-04-26 07:38:55.287033
+120,83,Senior,Female,66.50386606537354,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,98.60916660783991,Fever,walking,96.0,Normal,good,low,2024-04-26 07:33:55.287036
+121,59,Adult,Male,68.58206389408609,Normal,136/88,136,88,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.34190510891094,Normal,walking,96.0,Normal,good,high,2024-04-26 07:28:55.287039
+122,62,Adult,Male,80.18122509041052,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,17,High,98.5942936714272,Normal,walking,95.0,Normal,good,high,2024-04-26 07:23:55.287041
+123,79,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.976404899295,Fever,walking,98.0,Normal,poor,low,2024-04-26 07:18:55.287043
+124,74,Senior,Male,82.19629787441544,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,99.469084009231,Fever,resting,96.0,Normal,excellent,high,2024-04-26 07:13:55.287046
+125,23,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.41863732532788,Normal,running,96.0,Normal,fair,low,2024-04-26 07:08:55.287049
+126,45,Adult,Male,80.0,Normal,111/81,111,81,High Blood Pressure (Hypertension) Stage 1,23,High,98.59775686471376,Normal,walking,95.0,Normal,excellent,moderate,2024-04-26 07:03:55.287051
+127,45,Adult,Female,69.01892734973862,Normal,116/69,116,69,Normal,14,Normal,98.90207903594828,Fever,running,94.0,Low,fair,low,2024-04-26 06:58:55.287053
+128,61,Adult,Female,83.86740454079445,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.87484261598009,Fever,walking,96.0,Normal,poor,high,2024-04-26 06:53:55.287056
+129,47,Adult,Male,72.19930273017528,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.71114498245774,Fever,walking,96.0,Normal,poor,low,2024-04-26 06:48:55.287058
+130,79,Senior,Male,97.9930486917676,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.31883830369418,Fever,resting,95.0,Normal,fair,high,2024-04-26 06:43:55.287061
+131,79,Senior,Male,73.89867313786773,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.60916660783991,Fever,resting,96.0,Normal,fair,moderate,2024-04-26 06:38:55.287064
+132,18,Adult,Female,84.13712594961206,Normal,110/70,110,70,Normal,21,High,99.20591006389212,Fever,running,96.0,Normal,fair,low,2024-04-26 06:33:55.287067
+133,44,Adult,Male,89.8753925725478,Normal,106/88,106,88,High Blood Pressure (Hypertension) Stage 1,18,High,98.2683984202842,Normal,resting,97.0,Normal,excellent,moderate,2024-04-26 06:28:55.287069
+134,79,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,97.61462378601053,Normal,resting,96.0,Normal,fair,high,2024-04-26 06:23:55.287072
+135,20,Adult,Male,97.1611515315324,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.69757912494798,Fever,running,99.0,Normal,poor,high,2024-04-26 06:18:55.287075
+136,44,Adult,Male,80.0,Normal,131/70,131,70,High Blood Pressure (Hypertension) Stage 1,23,High,98.96902866562684,Fever,resting,99.0,Normal,poor,moderate,2024-04-26 06:13:55.287077
+137,26,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.6646341167924,Fever,walking,97.0,Normal,good,low,2024-04-26 06:08:55.287080
+138,79,Senior,Male,70.35587696758864,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,99.11466359343768,Fever,running,96.0,Normal,fair,low,2024-04-26 06:03:55.287082
+139,54,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.1420078200518,Fever,running,97.0,Normal,excellent,high,2024-04-26 05:58:55.287085
+140,68,Senior,Female,92.53827136713208,Normal,128/63,128,63,Elevated,16,Normal,99.04098424558728,Fever,walking,96.0,Normal,excellent,moderate,2024-04-26 05:53:55.287088
+141,61,Adult,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,99.33284306014198,Fever,resting,96.0,Normal,excellent,moderate,2024-04-26 05:48:55.287090
+142,41,Adult,Male,65.61428550856486,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,99.33380430505788,Fever,running,96.0,Normal,good,low,2024-04-26 05:43:55.287093
+143,76,Senior,Female,60.78503353087754,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.54808172972729,Normal,running,94.0,Low,poor,low,2024-04-26 05:38:55.287096
+144,49,Adult,Female,80.0,Normal,131/61,131,61,High Blood Pressure (Hypertension) Stage 1,18,High,97.49937140937638,Normal,walking,97.0,Normal,excellent,low,2024-04-26 05:33:55.287099
+145,69,Senior,Female,96.51976558849684,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,98.4508513871828,Normal,walking,96.0,Normal,poor,moderate,2024-04-26 05:28:55.287102
+146,79,Senior,Female,68.56364574355462,Normal,121/70,121,70,Elevated,22,High,98.14545528605046,Normal,resting,94.0,Low,good,low,2024-04-26 05:23:55.287105
+147,75,Senior,Male,98.52609857824385,Normal,126/62,126,62,Elevated,17,High,99.16062267141167,Fever,running,95.0,Normal,fair,low,2024-04-26 05:18:55.287107
+148,69,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,17,High,98.48914102669644,Normal,resting,94.0,Low,fair,high,2024-04-26 05:13:55.287110
+149,29,Adult,Male,88.0438831312338,Normal,120/75,120,75,Elevated,22,High,98.65381309395826,Fever,resting,96.0,Normal,fair,low,2024-04-26 05:08:55.287113
+150,56,Adult,Female,90.59396934646637,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,99.03924127296268,Fever,walking,98.0,Normal,excellent,low,2024-04-26 05:03:55.287116
+151,19,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.96979121898906,Fever,running,96.0,Normal,fair,moderate,2024-04-26 04:58:55.287118
+152,20,Adult,Female,68.69289641899395,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.60916660783991,Fever,running,95.0,Normal,excellent,moderate,2024-04-26 04:53:55.287121
+153,73,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.24622226188905,Normal,running,98.0,Normal,good,high,2024-04-26 04:48:55.287123
+154,76,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.47869481825168,Normal,walking,98.0,Normal,good,low,2024-04-26 04:43:55.287126
+155,19,Adult,Male,88.58614494659736,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.71467196064998,Fever,walking,95.0,Normal,excellent,high,2024-04-26 04:38:55.287128
+156,19,Adult,Male,71.57129716394726,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,97.9118436868029,Normal,walking,96.0,Normal,poor,moderate,2024-04-26 04:33:55.287131
+157,71,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,22,High,98.3027858583826,Normal,walking,94.0,Low,fair,high,2024-04-26 04:28:55.287134
+158,18,Adult,Female,80.0,Normal,110/70,110,70,Normal,13,Normal,98.595174982578,Normal,walking,96.0,Normal,fair,moderate,2024-04-26 04:23:55.287136
+159,36,Adult,Male,78.6173930055947,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.43961695215356,Normal,running,94.0,Low,fair,high,2024-04-26 04:18:55.287139
+160,19,Adult,Female,71.31310721726766,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,98.2711279176152,Normal,resting,96.0,Normal,excellent,high,2024-04-26 04:13:55.287141
+161,70,Senior,Female,80.05063665954536,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,97.78526759862396,Normal,running,94.0,Low,good,low,2024-04-26 04:08:55.287144
+162,61,Adult,Male,61.57416920748491,Normal,116/88,116,88,High Blood Pressure (Hypertension) Stage 1,23,High,98.49062821175193,Normal,resting,96.0,Normal,fair,high,2024-04-26 04:03:55.287147
+163,49,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,97.7934493459568,Normal,walking,95.0,Normal,good,low,2024-04-26 03:58:55.287150
+164,49,Adult,Female,94.3586353632966,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.89131504577324,Fever,resting,96.0,Normal,fair,low,2024-04-26 03:53:55.287152
+165,72,Senior,Male,81.92675225848865,Normal,145/66,145,66,High Blood Pressure (Hypertension) Stage 2,16,Normal,98.45743084346456,Normal,running,94.0,Low,fair,low,2024-04-26 03:48:55.287155
+166,73,Senior,Male,85.825561853873,Normal,102/88,102,88,High Blood Pressure (Hypertension) Stage 1,12,Normal,97.92128604553838,Normal,running,96.0,Normal,excellent,low,2024-04-26 03:43:55.287157
+167,34,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.34900455651584,Normal,resting,96.0,Normal,poor,high,2024-04-26 03:38:55.287160
+168,55,Adult,Female,98.7935859653079,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.50079859771654,Normal,walking,96.0,Normal,excellent,moderate,2024-04-26 03:33:55.287163
+169,41,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.2698060383214,Normal,walking,96.0,Normal,fair,moderate,2024-04-26 03:28:55.287166
+170,28,Adult,Male,80.49252767128502,Normal,124/89,124,89,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.60916660783991,Fever,running,95.0,Normal,fair,moderate,2024-04-26 03:23:55.287168
+171,33,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,97.94921703849953,Normal,resting,96.0,Normal,poor,high,2024-04-26 03:18:55.287171
+172,76,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.28532195351838,Normal,walking,99.0,Normal,good,low,2024-04-26 03:13:55.287174
+173,20,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.43146248118391,Normal,walking,98.0,Normal,good,moderate,2024-04-26 03:08:55.287198
+174,37,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.82571182680084,Fever,running,96.0,Normal,fair,high,2024-04-26 03:03:55.287204
+175,76,Senior,Female,75.0,Normal,101/83,101,83,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.41849766105643,Normal,walking,96.0,Normal,good,low,2024-04-26 02:58:55.287207
+176,53,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.04443666248184,Normal,resting,98.0,Normal,fair,moderate,2024-04-26 02:53:55.287210
+177,36,Adult,Male,74.02600378375581,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.17788483090683,Normal,running,98.0,Normal,poor,low,2024-04-26 02:48:55.287213
+178,84,Senior,Male,82.90706815431463,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,98.55045408868472,Normal,running,99.0,Normal,poor,moderate,2024-04-26 02:43:55.287216
+179,36,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,99.28713567862948,Fever,resting,95.0,Normal,fair,moderate,2024-04-26 02:38:55.287219
+180,37,Adult,Female,73.44033833317924,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.85431101899884,Fever,running,98.0,Normal,poor,moderate,2024-04-26 02:33:55.287231
+181,69,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,98.60916660783991,Fever,walking,99.0,Normal,excellent,low,2024-04-26 02:28:55.287234
+182,50,Adult,Female,66.28568488716743,Normal,110/84,110,84,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.37418964575654,Normal,walking,98.0,Normal,excellent,high,2024-04-26 02:23:55.287237
+183,57,Adult,Female,66.85821500387777,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.09509594674404,Normal,resting,96.0,Normal,poor,low,2024-04-26 02:18:55.287240
+184,56,Adult,Female,80.0,Normal,140/67,140,67,High Blood Pressure (Hypertension) Stage 2,12,Normal,97.89787491224558,Normal,walking,96.0,Normal,fair,moderate,2024-04-26 02:13:55.287242
+185,18,Adult,Female,80.0,Normal,110/70,110,70,Normal,15,Normal,97.45557443822162,Normal,resting,97.0,Normal,fair,low,2024-04-26 02:08:55.287245
+186,28,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,97.94259968603448,Normal,resting,96.0,Normal,poor,high,2024-04-26 02:03:55.287248
+187,74,Senior,Female,85.94647524914708,Normal,140/76,140,76,High Blood Pressure (Hypertension) Stage 2,14,Normal,98.65193492036838,Fever,walking,94.0,Low,good,low,2024-04-26 01:58:55.287250
+188,67,Senior,Female,99.85434217468624,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,98.82503583849008,Fever,resting,99.0,Normal,excellent,high,2024-04-26 01:53:55.287253
+189,40,Adult,Male,92.3064125638632,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,97.94219199364068,Normal,walking,96.0,Normal,good,high,2024-04-26 01:48:55.287256
+190,48,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,99.0888526622972,Fever,running,99.0,Normal,fair,low,2024-04-26 01:43:55.287259
+191,59,Adult,Male,83.10697009586596,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.3278067668362,Normal,running,94.0,Low,fair,moderate,2024-04-26 01:38:55.287262
+192,24,Adult,Male,86.71279758864695,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.93186596067284,Fever,resting,96.0,Normal,good,high,2024-04-26 01:33:55.287264
+193,33,Adult,Female,70.4281874882604,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.18378733448004,Fever,walking,96.0,Normal,poor,low,2024-04-26 01:28:55.287267
+194,77,Senior,Female,94.50852244257602,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,99.12318712138884,Fever,walking,94.0,Low,good,high,2024-04-26 01:23:55.287270
+195,19,Adult,Male,61.34636185170236,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.61862025159368,Fever,running,97.0,Normal,good,moderate,2024-04-26 01:18:55.287273
+196,18,Adult,Female,66.77063475945768,Normal,110/70,110,70,Normal,22,High,98.1380907121372,Normal,running,96.0,Normal,excellent,low,2024-04-26 01:13:55.287276
+197,65,Senior,Male,75.23228512759773,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,97.56522660444844,Normal,walking,96.0,Normal,excellent,low,2024-04-26 01:08:55.287279
+198,29,Adult,Female,86.30745021189105,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,97.94977728472294,Normal,resting,94.0,Low,good,low,2024-04-26 01:03:55.287282
+199,54,Adult,Male,93.116417436892,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.68480540384138,Fever,running,99.0,Normal,good,moderate,2024-04-26 00:58:55.287285
+200,49,Adult,Female,83.71405940433876,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.0630195727114,Normal,resting,96.0,Normal,fair,high,2024-04-26 00:53:55.287288
+201,26,Adult,Female,76.71557472069657,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.3954553958962,Normal,resting,97.0,Normal,excellent,low,2024-04-26 00:48:55.287291
+202,36,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.80980184516736,Fever,running,99.0,Normal,excellent,high,2024-04-26 00:43:55.287295
+203,65,Senior,Female,75.0,Normal,105/68,105,68,Normal,21,High,98.35913126189143,Normal,resting,98.0,Normal,fair,high,2024-04-26 00:38:55.287298
+204,20,Adult,Male,80.0,Normal,105/68,105,68,Normal,21,High,98.01830774072728,Normal,resting,96.0,Normal,poor,moderate,2024-04-26 00:33:55.287301
+205,37,Adult,Male,80.0,Normal,131/71,131,71,High Blood Pressure (Hypertension) Stage 1,21,High,98.38867416529524,Normal,walking,96.0,Normal,excellent,low,2024-04-26 00:28:55.287304
+206,41,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.92120199026913,Fever,resting,97.0,Normal,excellent,high,2024-04-26 00:23:55.287306
+207,71,Senior,Male,75.0,Normal,149/87,149,87,High Blood Pressure (Hypertension) Stage 1,23,High,97.84391412950072,Normal,walking,98.0,Normal,poor,low,2024-04-26 00:18:55.287309
+208,50,Adult,Female,84.02757190182442,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.60916660783991,Fever,running,94.0,Low,excellent,low,2024-04-26 00:13:55.287312
+209,41,Adult,Female,85.0300953726121,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.18361411842324,Normal,running,95.0,Normal,excellent,moderate,2024-04-26 00:08:55.287314
+210,53,Adult,Female,73.70546298130944,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.939291273658,Fever,walking,94.0,Low,poor,low,2024-04-26 00:03:55.287317
+211,55,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.04220349344052,Fever,running,98.0,Normal,poor,low,2024-04-25 23:58:55.287319
+212,42,Adult,Female,67.2711312803612,Normal,105/81,105,81,High Blood Pressure (Hypertension) Stage 1,20,High,98.68065737762592,Fever,resting,96.0,Normal,good,high,2024-04-25 23:53:55.287322
+213,35,Adult,Male,80.0,Normal,125/62,125,62,Elevated,15,Normal,98.9910161826382,Fever,resting,99.0,Normal,fair,moderate,2024-04-25 23:48:55.287325
+214,83,Senior,Female,84.30278250261159,Normal,140/73,140,73,High Blood Pressure (Hypertension) Stage 2,22,High,98.77982722287042,Fever,resting,97.0,Normal,fair,low,2024-04-25 23:43:55.287328
+215,71,Senior,Female,91.3694615107193,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.29247305951505,Normal,running,94.0,Low,poor,high,2024-04-25 23:38:55.287331
+216,52,Adult,Female,80.0,Normal,111/82,111,82,High Blood Pressure (Hypertension) Stage 1,18,High,99.0206603764033,Fever,resting,96.0,Normal,poor,moderate,2024-04-25 23:33:55.287334
+217,78,Senior,Male,86.45434957092486,Normal,111/72,111,72,Normal,17,High,98.0228455297324,Normal,running,97.0,Normal,excellent,moderate,2024-04-25 23:28:55.287337
+218,58,Adult,Female,80.0,Normal,124/78,124,78,Elevated,19,High,98.73006035229238,Fever,resting,96.0,Normal,good,high,2024-04-25 23:23:55.287339
+219,50,Adult,Female,80.0292729043418,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.52727755755724,Normal,walking,96.0,Normal,good,high,2024-04-25 23:18:55.287342
+220,50,Adult,Male,85.16374827877264,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.4886108752558,Normal,running,99.0,Normal,poor,high,2024-04-25 23:13:55.287345
+221,31,Adult,Female,91.62931713334702,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.56156035377842,Normal,running,94.0,Low,excellent,high,2024-04-25 23:08:55.287348
+222,38,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,97.35796632146868,Normal,resting,97.0,Normal,excellent,high,2024-04-25 23:03:55.287351
+223,65,Senior,Female,81.37252038074902,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.03036291557883,Normal,running,99.0,Normal,fair,low,2024-04-25 22:58:55.287354
+224,37,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.74865281880454,Fever,running,96.0,Normal,fair,low,2024-04-25 22:53:55.287357
+225,25,Adult,Male,65.05613626842113,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.7341730876256,Fever,walking,97.0,Normal,excellent,moderate,2024-04-25 22:48:55.287360
+226,24,Adult,Female,78.17790119393473,Normal,127/69,127,69,Elevated,19,High,98.06320333272946,Normal,walking,96.0,Normal,fair,low,2024-04-25 22:43:55.287362
+227,84,Senior,Male,79.12856003819093,Normal,134/88,134,88,High Blood Pressure (Hypertension) Stage 1,17,High,99.20368678661308,Fever,resting,96.0,Normal,poor,low,2024-04-25 22:38:55.287365
+228,34,Adult,Male,97.8445104441414,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.26951634107232,Normal,walking,96.0,Normal,excellent,low,2024-04-25 22:33:55.287368
+229,50,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.99204806393811,Fever,resting,96.0,Normal,fair,high,2024-04-25 22:28:55.287370
+230,65,Senior,Male,80.35919549786935,Normal,148/89,148,89,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.64433905491954,Fever,resting,97.0,Normal,good,moderate,2024-04-25 22:23:55.287373
+231,76,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,17,High,98.33916905101954,Normal,resting,94.0,Low,excellent,moderate,2024-04-25 22:18:55.287376
+232,39,Adult,Male,81.43291717916395,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.304325444477,Fever,running,96.0,Normal,excellent,moderate,2024-04-25 22:13:55.287379
+233,47,Adult,Female,87.09114367980763,Normal,103/87,103,87,High Blood Pressure (Hypertension) Stage 1,17,High,98.0816505511429,Normal,walking,98.0,Normal,good,moderate,2024-04-25 22:08:55.287382
+234,55,Adult,Male,97.69679930478836,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.75948327915242,Fever,resting,96.0,Normal,poor,low,2024-04-25 22:03:55.287385
+235,68,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,99.30583112746513,Fever,walking,96.0,Normal,good,low,2024-04-25 21:58:55.287388
+236,71,Senior,Female,67.26783804463602,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.3945194964826,Normal,resting,95.0,Normal,excellent,high,2024-04-25 21:53:55.287391
+237,25,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,99.35120594686278,Fever,walking,96.0,Normal,poor,moderate,2024-04-25 21:48:55.287394
+238,44,Adult,Female,91.37290862953886,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.6965381967891,Fever,walking,97.0,Normal,fair,low,2024-04-25 21:43:55.287396
+239,44,Adult,Female,70.67642707046322,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,99.03309488889252,Fever,resting,96.0,Normal,fair,low,2024-04-25 21:38:55.287399
+240,38,Adult,Female,90.70486666959243,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.90287401300364,Fever,running,96.0,Normal,fair,high,2024-04-25 21:33:55.287402
+241,47,Adult,Female,80.4149585231346,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.13182515373369,Normal,walking,96.0,Normal,excellent,high,2024-04-25 21:28:55.287405
+242,45,Adult,Female,80.0,Normal,139/80,139,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.74408460665286,Fever,running,99.0,Normal,good,high,2024-04-25 21:23:55.287408
+243,81,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.87503628446086,Fever,running,94.0,Low,poor,low,2024-04-25 21:18:55.287411
+244,78,Senior,Male,75.0,Normal,125/67,125,67,Elevated,18,High,97.70521821004218,Normal,resting,96.0,Normal,fair,low,2024-04-25 21:13:55.287413
+245,65,Senior,Female,75.59940718588845,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,99.40353180409382,Fever,resting,96.0,Normal,poor,high,2024-04-25 21:08:55.287416
+246,36,Adult,Male,90.33099752831812,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,97.6548512373693,Normal,resting,96.0,Normal,excellent,moderate,2024-04-25 21:03:55.287419
+247,21,Adult,Male,88.05010937767808,Normal,136/64,136,64,High Blood Pressure (Hypertension) Stage 1,14,Normal,99.13735335289542,Fever,walking,96.0,Normal,fair,high,2024-04-25 20:58:55.287422
+248,52,Adult,Male,86.69334153485258,Normal,137/73,137,73,High Blood Pressure (Hypertension) Stage 1,19,High,99.04892341352934,Fever,resting,94.0,Low,excellent,high,2024-04-25 20:53:55.287425
+249,81,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,97.9776964394016,Normal,resting,94.0,Low,good,high,2024-04-25 20:48:55.287428
+250,66,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,98.11866778063036,Normal,walking,95.0,Normal,excellent,high,2024-04-25 20:43:55.287430
+251,34,Adult,Male,85.47823209132991,Normal,127/61,127,61,Elevated,18,High,97.8153533507778,Normal,walking,97.0,Normal,excellent,low,2024-04-25 20:38:55.287433
+252,61,Adult,Female,90.83572389410956,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.22966307887674,Normal,resting,96.0,Normal,good,moderate,2024-04-25 20:33:55.287436
+253,47,Adult,Male,79.24431239402527,Normal,104/60,104,60,Normal,15,Normal,98.20482534940454,Normal,resting,99.0,Normal,poor,high,2024-04-25 20:28:55.287439
+254,63,Adult,Male,75.0,Normal,139/71,139,71,High Blood Pressure (Hypertension) Stage 1,19,High,99.21072835932156,Fever,resting,95.0,Normal,good,moderate,2024-04-25 20:23:55.287441
+255,23,Adult,Male,74.96126006809197,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,99.1101202222336,Fever,resting,96.0,Normal,good,moderate,2024-04-25 20:18:55.287444
+256,54,Adult,Male,76.0315318542675,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.60916660783991,Fever,running,95.0,Normal,excellent,moderate,2024-04-25 20:13:55.287447
+257,41,Adult,Female,62.533822298373245,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.39866358017618,Normal,running,94.0,Low,poor,high,2024-04-25 20:08:55.287450
+258,63,Adult,Female,71.58466106876244,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.53696722473896,Normal,resting,96.0,Normal,fair,low,2024-04-25 20:03:55.287453
+259,70,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,97.62832844396377,Normal,running,98.0,Normal,good,high,2024-04-25 19:58:55.287456
+260,77,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,98.3400619758818,Normal,walking,95.0,Normal,poor,moderate,2024-04-25 19:53:55.287458
+261,80,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.98487243475245,Fever,running,96.0,Normal,good,moderate,2024-04-25 19:48:55.287461
+262,49,Adult,Male,60.8809492878764,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,99.42440196292908,Fever,running,96.0,Normal,good,low,2024-04-25 19:43:55.287464
+263,50,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.51201690765376,Normal,resting,96.0,Normal,good,high,2024-04-25 19:38:55.287467
+264,84,Senior,Male,84.95122471733141,Normal,142/71,142,71,High Blood Pressure (Hypertension) Stage 2,17,High,98.28078802005508,Normal,running,97.0,Normal,good,moderate,2024-04-25 19:33:55.287469
+265,35,Adult,Male,80.0,Normal,100/79,100,79,Normal,19,High,98.82985466525712,Fever,running,99.0,Normal,excellent,low,2024-04-25 19:28:55.287472
+266,42,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.55936471497482,Normal,running,94.0,Low,poor,moderate,2024-04-25 19:23:55.287474
+267,71,Senior,Female,92.26482260786328,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,98.1930023019006,Normal,running,96.0,Normal,poor,low,2024-04-25 19:18:55.287477
+268,75,Senior,Female,94.13971724407874,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,17,High,99.1541601271271,Fever,walking,96.0,Normal,poor,low,2024-04-25 19:13:55.287480
+269,84,Senior,Female,75.0,Normal,148/87,148,87,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.27460658844244,Normal,resting,96.0,Normal,good,high,2024-04-25 19:08:55.287482
+270,63,Adult,Female,63.26148115457218,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.96248971159936,Fever,resting,95.0,Normal,excellent,moderate,2024-04-25 19:03:55.287485
+271,41,Adult,Male,62.88254657813223,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,99.0415503870911,Fever,walking,97.0,Normal,good,high,2024-04-25 18:58:55.287488
+272,49,Adult,Female,64.12827569764112,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.48750664482114,Normal,running,99.0,Normal,good,moderate,2024-04-25 18:53:55.287491
+273,64,Adult,Female,90.32632750430992,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.52648154781112,Normal,walking,98.0,Normal,poor,high,2024-04-25 18:48:55.287494
+274,40,Adult,Male,80.0,Normal,119/85,119,85,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.69451088992534,Fever,running,96.0,Normal,good,moderate,2024-04-25 18:43:55.287496
+275,83,Senior,Male,96.0369826979041,Normal,128/60,128,60,Elevated,18,High,98.72436199244343,Fever,walking,94.0,Low,fair,high,2024-04-25 18:38:55.287499
+276,44,Adult,Male,62.92420694852654,Normal,134/65,134,65,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.08595505602192,Normal,resting,97.0,Normal,good,low,2024-04-25 18:33:55.287502
+277,19,Adult,Female,91.39811939114692,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.35457256483502,Normal,resting,99.0,Normal,fair,moderate,2024-04-25 18:28:55.287504
+278,34,Adult,Male,67.79956624568241,Normal,132/73,132,73,High Blood Pressure (Hypertension) Stage 1,15,Normal,99.3504962728897,Fever,resting,95.0,Normal,good,moderate,2024-04-25 18:23:55.287507
+279,50,Adult,Male,69.13960416998003,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.88511331418,Fever,running,95.0,Normal,excellent,low,2024-04-25 18:18:55.287509
+280,26,Adult,Male,77.22937280627647,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.62413441951014,Fever,running,98.0,Normal,excellent,high,2024-04-25 18:13:55.287511
+281,60,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.93554020018664,Fever,walking,96.0,Normal,poor,moderate,2024-04-25 18:08:55.287514
+282,65,Senior,Male,94.32426134904208,Normal,149/88,149,88,High Blood Pressure (Hypertension) Stage 1,22,High,98.13293112825798,Normal,walking,98.0,Normal,good,moderate,2024-04-25 18:03:55.287516
+283,56,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,99.2760395702012,Fever,resting,94.0,Low,fair,high,2024-04-25 17:58:55.287519
+284,59,Adult,Female,89.5243690023463,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.92211714905676,Fever,running,97.0,Normal,fair,low,2024-04-25 17:53:55.287521
+285,43,Adult,Male,86.26606674931253,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.6119580895862,Fever,walking,97.0,Normal,good,high,2024-04-25 17:48:55.287524
+286,67,Senior,Male,75.0,Normal,122/75,122,75,Elevated,17,High,99.01615614511093,Fever,running,96.0,Normal,fair,high,2024-04-25 17:43:55.287526
+287,42,Adult,Female,86.69642980992883,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,97.96678443090978,Normal,running,96.0,Normal,excellent,high,2024-04-25 17:38:55.287528
+288,41,Adult,Male,92.17663441296916,Normal,100/67,100,67,Normal,12,Normal,98.09183601584569,Normal,resting,96.0,Normal,fair,moderate,2024-04-25 17:33:55.287531
+289,30,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,97.98596685770828,Normal,resting,97.0,Normal,poor,low,2024-04-25 17:28:55.287533
+290,77,Senior,Female,64.75460096035881,Normal,104/81,104,81,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.3678078132968,Normal,running,97.0,Normal,excellent,low,2024-04-25 17:23:55.287536
+291,24,Adult,Female,87.58375549928545,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.60916660783991,Fever,running,96.0,Normal,excellent,high,2024-04-25 17:18:55.287538
+292,74,Senior,Male,66.01399813068234,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,22,High,98.60916660783991,Fever,running,99.0,Normal,excellent,moderate,2024-04-25 17:13:55.287541
+293,53,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.95431576743908,Fever,running,96.0,Normal,good,high,2024-04-25 17:08:55.287543
+294,62,Adult,Male,75.0,Normal,129/77,129,77,Elevated,23,High,98.64465028483596,Fever,resting,96.0,Normal,good,moderate,2024-04-25 17:03:55.287546
+295,37,Adult,Male,80.0,Normal,116/85,116,85,High Blood Pressure (Hypertension) Stage 1,22,High,97.48378869191836,Normal,walking,96.0,Normal,excellent,moderate,2024-04-25 16:58:55.287549
+296,82,Senior,Male,60.61418080947869,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.51063057066658,Normal,resting,96.0,Normal,good,moderate,2024-04-25 16:53:55.287552
+297,25,Adult,Female,84.7991997508665,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.19208896922868,Normal,walking,95.0,Normal,fair,moderate,2024-04-25 16:48:55.287554
+298,33,Adult,Male,82.61459904175322,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.43630013947453,Normal,running,96.0,Normal,good,low,2024-04-25 16:43:55.287556
+299,31,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.50566367522607,Normal,walking,96.0,Normal,good,moderate,2024-04-25 16:38:55.287559
+300,32,Adult,Male,68.25925768384722,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.40595122789917,Normal,resting,98.0,Normal,excellent,moderate,2024-04-25 16:33:55.287561
+301,83,Senior,Female,75.0,Normal,118/90,118,90,High Blood Pressure (Hypertension) Stage 2,15,Normal,97.7876567611952,Normal,resting,94.0,Low,poor,high,2024-04-25 16:28:55.287564
+302,49,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.89679105435653,Fever,running,96.0,Normal,poor,high,2024-04-25 16:23:55.287566
+303,80,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.1192241553882,Normal,resting,98.0,Normal,poor,low,2024-04-25 16:18:55.287568
+304,68,Senior,Female,97.22074053086692,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.607544942259,Fever,running,95.0,Normal,fair,high,2024-04-25 16:13:55.287571
+305,42,Adult,Female,61.958196812071705,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.60916660783991,Fever,resting,94.0,Low,good,moderate,2024-04-25 16:08:55.287573
+306,75,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.03816557530628,Normal,resting,94.0,Low,poor,high,2024-04-25 16:03:55.287576
+307,80,Senior,Female,94.55532979157684,Normal,132/84,132,84,High Blood Pressure (Hypertension) Stage 1,17,High,97.34442675432672,Normal,running,95.0,Normal,excellent,low,2024-04-25 15:58:55.287579
+308,79,Senior,Female,85.81685722232834,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,17,High,98.40425027566732,Normal,walking,96.0,Normal,poor,high,2024-04-25 15:53:55.287581
+309,39,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,99.45115122511471,Fever,resting,96.0,Normal,poor,high,2024-04-25 15:48:55.287584
+310,75,Senior,Male,66.59561469513221,Normal,130/70,130,70,High Blood Pressure (Hypertension) Stage 1,22,High,99.42107853955608,Fever,walking,95.0,Normal,good,low,2024-04-25 15:43:55.287586
+311,75,Senior,Female,92.56463759354556,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,97.96262567116771,Normal,resting,95.0,Normal,good,low,2024-04-25 15:38:55.287589
+312,66,Senior,Female,96.19755370397438,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.71205378834516,Fever,resting,95.0,Normal,good,moderate,2024-04-25 15:33:55.287592
+313,69,Senior,Male,92.65083269797606,Normal,118/65,118,65,Normal,14,Normal,98.68939557687077,Fever,resting,94.0,Low,fair,high,2024-04-25 15:28:55.287594
+314,59,Adult,Female,84.62701927200128,Normal,112/82,112,82,High Blood Pressure (Hypertension) Stage 1,21,High,98.53931095530233,Normal,resting,99.0,Normal,fair,moderate,2024-04-25 15:23:55.287597
+315,32,Adult,Male,75.61095761430866,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.60916660783991,Fever,walking,96.0,Normal,poor,high,2024-04-25 15:18:55.287599
+316,71,Senior,Male,91.04200768326552,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,97.5028879253926,Normal,walking,98.0,Normal,good,high,2024-04-25 15:13:55.287601
+317,77,Senior,Male,75.0,Normal,114/60,114,60,Normal,14,Normal,98.75341005317384,Fever,resting,96.0,Normal,poor,moderate,2024-04-25 15:08:55.287604
+318,25,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.97792615912468,Fever,resting,96.0,Normal,excellent,high,2024-04-25 15:03:55.287606
+319,70,Senior,Male,75.0,Normal,114/80,114,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.11645679785508,Fever,walking,96.0,Normal,excellent,high,2024-04-25 14:58:55.287609
+320,77,Senior,Female,74.73971389126463,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.81309607501306,Fever,running,98.0,Normal,good,high,2024-04-25 14:53:55.287611
+321,22,Adult,Male,63.19399192998544,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.69654230997992,Fever,running,96.0,Normal,good,low,2024-04-25 14:48:55.287613
+322,23,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.68186948803712,Fever,walking,95.0,Normal,excellent,moderate,2024-04-25 14:43:55.287616
+323,64,Adult,Female,94.36355863353306,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,99.15977962472384,Fever,resting,99.0,Normal,good,low,2024-04-25 14:38:55.287618
+324,72,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.32743228791207,Normal,resting,96.0,Normal,fair,moderate,2024-04-25 14:33:55.287621
+325,57,Adult,Female,77.9879652370006,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.81089949571984,Fever,running,96.0,Normal,fair,moderate,2024-04-25 14:28:55.287623
+326,69,Senior,Female,70.57162277442454,Normal,145/68,145,68,High Blood Pressure (Hypertension) Stage 2,17,High,98.69067689542356,Fever,running,98.0,Normal,good,high,2024-04-25 14:23:55.287625
+327,33,Adult,Female,92.31622174700014,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,99.11591442914614,Fever,walking,97.0,Normal,excellent,moderate,2024-04-25 14:18:55.287628
+328,30,Adult,Male,80.0,Normal,125/67,125,67,Elevated,15,Normal,98.49542799456934,Normal,running,99.0,Normal,poor,low,2024-04-25 14:13:55.287630
+329,47,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,99.11596263658085,Fever,walking,98.0,Normal,good,low,2024-04-25 14:08:55.287633
+330,36,Adult,Male,78.25669101852856,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,98.54364307822787,Normal,running,99.0,Normal,good,low,2024-04-25 14:03:55.287635
+331,34,Adult,Female,65.97550645430617,Normal,125/84,125,84,High Blood Pressure (Hypertension) Stage 1,13,Normal,97.43110989779316,Normal,running,96.0,Normal,poor,moderate,2024-04-25 13:58:55.287638
+332,80,Senior,Male,67.20549125702834,Normal,111/64,111,64,Normal,14,Normal,99.01626961070316,Fever,running,95.0,Normal,good,low,2024-04-25 13:53:55.287641
+333,36,Adult,Male,66.15160911638745,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,97.89917184664958,Normal,resting,97.0,Normal,poor,moderate,2024-04-25 13:48:55.287643
+334,75,Senior,Male,90.64567657697576,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,98.14644048697916,Normal,resting,96.0,Normal,excellent,low,2024-04-25 13:43:55.287646
+335,72,Senior,Female,83.9502394668355,Normal,114/82,114,82,High Blood Pressure (Hypertension) Stage 1,20,High,98.29306302252265,Normal,resting,96.0,Normal,fair,low,2024-04-25 13:38:55.287659
+336,79,Senior,Female,79.70588523699573,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,99.3468429465073,Fever,running,96.0,Normal,excellent,moderate,2024-04-25 13:33:55.287663
+337,40,Adult,Male,76.34900560641498,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,97.8101000985628,Normal,walking,96.0,Normal,fair,low,2024-04-25 13:28:55.287665
+338,26,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.60916660783991,Fever,walking,98.0,Normal,poor,high,2024-04-25 13:23:55.287668
+339,29,Adult,Male,78.82586290855124,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,99.29686447969532,Fever,walking,99.0,Normal,fair,moderate,2024-04-25 13:18:55.287670
+340,18,Adult,Male,93.87255089439203,Normal,110/70,110,70,Normal,23,High,98.6572022311549,Fever,walking,96.0,Normal,excellent,moderate,2024-04-25 13:13:55.288119
+341,75,Senior,Female,86.35555920886713,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,98.59010725806952,Normal,resting,96.0,Normal,fair,moderate,2024-04-25 13:08:55.288126
+342,18,Adult,Female,80.0,Normal,110/70,110,70,Normal,23,High,98.83496389843332,Fever,resting,96.0,Normal,poor,high,2024-04-25 13:03:55.288128
+343,51,Adult,Female,77.48993314221744,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.67545559568757,Fever,running,96.0,Normal,fair,moderate,2024-04-25 12:58:55.288131
+344,65,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.9764819492368,Fever,running,96.0,Normal,good,low,2024-04-25 12:53:55.288133
+345,18,Adult,Male,80.0,Normal,110/70,110,70,Normal,19,High,98.9332904416426,Fever,walking,97.0,Normal,excellent,low,2024-04-25 12:48:55.288136
+346,33,Adult,Male,80.0,Normal,128/87,128,87,High Blood Pressure (Hypertension) Stage 1,20,High,98.69849025280162,Fever,resting,94.0,Low,good,low,2024-04-25 12:43:55.288138
+347,78,Senior,Male,61.10383131700535,Normal,134/67,134,67,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.55783372878156,Normal,walking,96.0,Normal,poor,moderate,2024-04-25 12:38:55.288141
+348,81,Senior,Female,76.1850724512469,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.99106002798216,Fever,running,94.0,Low,fair,low,2024-04-25 12:33:55.288143
+349,80,Senior,Male,68.56311155749513,Normal,129/77,129,77,Elevated,19,High,98.37245200314972,Normal,running,98.0,Normal,good,moderate,2024-04-25 12:28:55.288146
+350,39,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,99.09380060899964,Fever,walking,97.0,Normal,good,low,2024-04-25 12:23:55.288149
+351,84,Senior,Female,61.62181513119601,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,98.77537189471504,Fever,running,96.0,Normal,fair,high,2024-04-25 12:18:55.288151
+352,43,Adult,Male,64.9507124338991,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.60916660783991,Fever,walking,97.0,Normal,fair,high,2024-04-25 12:13:55.288154
+353,33,Adult,Male,83.71531924640404,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.7725225745387,Fever,resting,96.0,Normal,excellent,high,2024-04-25 12:08:55.288156
+354,68,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.93780330622153,Fever,walking,96.0,Normal,good,high,2024-04-25 12:03:55.288159
+355,74,Senior,Female,70.96196758419462,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.88410084959796,Fever,resting,98.0,Normal,good,moderate,2024-04-25 11:58:55.288162
+356,46,Adult,Male,76.99494127072438,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,98.28585074125012,Normal,resting,96.0,Normal,poor,low,2024-04-25 11:53:55.288165
+357,64,Adult,Female,63.96297372801522,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,99.03352888537916,Fever,running,95.0,Normal,excellent,high,2024-04-25 11:48:55.288167
+358,79,Senior,Male,95.42268272215972,Normal,143/72,143,72,High Blood Pressure (Hypertension) Stage 2,19,High,99.19428311127729,Fever,running,98.0,Normal,poor,moderate,2024-04-25 11:43:55.288169
+359,33,Adult,Female,97.64543712067618,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.0895553911438,Normal,running,99.0,Normal,good,high,2024-04-25 11:38:55.288172
+360,65,Senior,Female,87.34553811289535,Normal,108/85,108,85,High Blood Pressure (Hypertension) Stage 1,17,High,98.9265863635511,Fever,walking,94.0,Low,poor,high,2024-04-25 11:33:55.288175
+361,56,Adult,Male,69.03869302848234,Normal,108/74,108,74,Normal,21,High,98.14058460417026,Normal,walking,97.0,Normal,good,moderate,2024-04-25 11:28:55.288177
+362,50,Adult,Female,96.06547782600516,Normal,109/83,109,83,High Blood Pressure (Hypertension) Stage 1,20,High,97.59685117700056,Normal,running,96.0,Normal,good,moderate,2024-04-25 11:23:55.288193
+363,40,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.609501040266,Fever,walking,96.0,Normal,poor,low,2024-04-25 11:18:55.288196
+364,27,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,99.3591755346191,Fever,running,97.0,Normal,poor,low,2024-04-25 11:13:55.288198
+365,51,Adult,Female,95.38028798342222,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.97744226190312,Fever,walking,96.0,Normal,fair,high,2024-04-25 11:08:55.288201
+366,69,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.8224596880128,Fever,resting,96.0,Normal,fair,high,2024-04-25 11:03:55.288204
+367,27,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,99.05717307814498,Fever,resting,98.0,Normal,fair,low,2024-04-25 10:58:55.288206
+368,36,Adult,Male,81.02518480156358,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.9668913579974,Fever,running,96.0,Normal,good,low,2024-04-25 10:53:55.288208
+369,75,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.43170885453456,Normal,walking,98.0,Normal,poor,moderate,2024-04-25 10:48:55.288211
+370,18,Adult,Female,81.45398043228907,Normal,110/70,110,70,Normal,13,Normal,99.20204090775329,Fever,walking,96.0,Normal,excellent,low,2024-04-25 10:43:55.288213
+371,21,Adult,Female,76.04902034851789,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.9646105545012,Fever,resting,99.0,Normal,good,low,2024-04-25 10:38:55.288216
+372,33,Adult,Female,69.9959965824909,Normal,135/69,135,69,High Blood Pressure (Hypertension) Stage 1,22,High,98.84034055109232,Fever,resting,97.0,Normal,excellent,high,2024-04-25 10:33:55.288218
+373,41,Adult,Female,91.90228721559008,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.9241361543971,Fever,running,95.0,Normal,poor,low,2024-04-25 10:28:55.288220
+374,19,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.8538139920116,Fever,resting,98.0,Normal,good,high,2024-04-25 10:23:55.288234
+375,49,Adult,Male,80.0,Normal,132/80,132,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.79337460542524,Fever,running,99.0,Normal,excellent,low,2024-04-25 10:18:55.288237
+376,41,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,99.45891157270356,Fever,resting,98.0,Normal,excellent,moderate,2024-04-25 10:13:55.288240
+377,29,Adult,Male,83.74464127344136,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.49647774019276,Normal,resting,96.0,Normal,fair,low,2024-04-25 10:08:55.288242
+378,67,Senior,Male,91.3666840114767,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,22,High,98.24475759032778,Normal,walking,96.0,Normal,fair,low,2024-04-25 10:03:55.288245
+379,52,Adult,Female,80.37960586643534,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,98.49671542078543,Normal,resting,96.0,Normal,fair,low,2024-04-25 09:58:55.288248
+380,50,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.43767865468962,Normal,resting,99.0,Normal,good,high,2024-04-25 09:53:55.288250
+381,50,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.80538648517472,Fever,running,96.0,Normal,poor,moderate,2024-04-25 09:48:55.288253
+382,78,Senior,Male,74.80121470911196,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,98.39382624541594,Normal,resting,96.0,Normal,poor,low,2024-04-25 09:43:55.288256
+383,68,Senior,Male,68.75220855138039,Normal,106/80,106,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.10211211149635,Normal,running,96.0,Normal,fair,high,2024-04-25 09:38:55.288258
+384,60,Adult,Female,66.94848995663848,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.60883217541382,Fever,resting,97.0,Normal,fair,moderate,2024-04-25 09:33:55.288261
+385,29,Adult,Male,97.4817346768926,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,97.83637829792526,Normal,resting,95.0,Normal,fair,high,2024-04-25 09:28:55.288264
+386,84,Senior,Female,61.300787572952416,Normal,140/70,140,70,High Blood Pressure (Hypertension) Stage 2,18,High,99.0693414651472,Fever,running,96.0,Normal,excellent,high,2024-04-25 09:23:55.288266
+387,82,Senior,Female,75.0,Normal,123/78,123,78,Elevated,16,Normal,98.7167856370652,Fever,walking,97.0,Normal,fair,moderate,2024-04-25 09:18:55.288268
+388,50,Adult,Male,87.75234167843178,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.12814158184258,Normal,running,97.0,Normal,excellent,low,2024-04-25 09:13:55.288271
+389,57,Adult,Female,99.9008476763721,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,99.01813096613849,Fever,running,96.0,Normal,poor,high,2024-04-25 09:08:55.288273
+390,60,Adult,Female,66.84619268867519,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,99.32174071611658,Fever,running,96.0,Normal,good,high,2024-04-25 09:03:55.288276
+391,61,Adult,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,97.96409643623949,Normal,walking,97.0,Normal,good,low,2024-04-25 08:58:55.288278
+392,46,Adult,Male,81.983838343013,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.30145480622146,Normal,resting,96.0,Normal,good,low,2024-04-25 08:53:55.288280
+393,30,Adult,Female,99.35953358595872,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.41333493791784,Normal,running,96.0,Normal,good,moderate,2024-04-25 08:48:55.288283
+394,29,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.33385911808912,Normal,running,94.0,Low,excellent,moderate,2024-04-25 08:43:55.288286
+395,63,Adult,Female,65.35888024144258,Normal,148/61,148,61,High Blood Pressure (Hypertension) Stage 2,16,Normal,99.27643179820753,Fever,walking,99.0,Normal,excellent,moderate,2024-04-25 08:38:55.288288
+396,19,Adult,Male,84.0616486957906,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.62974197751792,Fever,running,96.0,Normal,fair,low,2024-04-25 08:33:55.288291
+397,52,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.46657638393664,Normal,resting,94.0,Low,excellent,high,2024-04-25 08:28:55.288293
+398,25,Adult,Male,90.70774474833082,Normal,131/80,131,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,97.62934273728666,Normal,walking,97.0,Normal,fair,high,2024-04-25 08:23:55.288296
+399,43,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,99.14130179330168,Fever,resting,96.0,Normal,fair,moderate,2024-04-25 08:18:55.288299
+400,51,Adult,Male,95.47563262394692,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,21,High,97.83661286580256,Normal,resting,96.0,Normal,good,low,2024-04-25 08:13:55.288301
+401,24,Adult,Male,78.81114468241127,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.67373466177456,Fever,walking,98.0,Normal,excellent,high,2024-04-25 08:08:55.288304
+402,75,Senior,Male,94.80124995409246,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,19,High,98.62133223753452,Fever,running,95.0,Normal,excellent,moderate,2024-04-25 08:03:55.288307
+403,46,Adult,Male,70.01048739943637,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,99.30574896458695,Fever,resting,94.0,Low,fair,high,2024-04-25 07:58:55.288310
+404,53,Adult,Female,65.09396118752949,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.15569037252146,Normal,resting,95.0,Normal,fair,high,2024-04-25 07:53:55.288312
+405,38,Adult,Male,76.09986905704152,Normal,129/67,129,67,Elevated,14,Normal,97.13821981360398,Normal,resting,96.0,Normal,poor,low,2024-04-25 07:48:55.288315
+406,53,Adult,Female,81.245699864695,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.70928730963124,Fever,resting,96.0,Normal,poor,low,2024-04-25 07:43:55.288317
+407,27,Adult,Female,98.8647591412348,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.22802877180402,Fever,walking,96.0,Normal,fair,high,2024-04-25 07:38:55.288319
+408,41,Adult,Male,94.7152410299574,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,99.34925071320544,Fever,walking,95.0,Normal,poor,moderate,2024-04-25 07:33:55.288322
+409,81,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,98.82909683622822,Fever,resting,94.0,Low,poor,low,2024-04-25 07:28:55.288324
+410,66,Senior,Female,98.0288776681175,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,98.8326509446611,Fever,running,97.0,Normal,fair,high,2024-04-25 07:23:55.288326
+411,53,Adult,Female,94.42322975617778,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.9384443530094,Fever,resting,98.0,Normal,fair,low,2024-04-25 07:18:55.288329
+412,41,Adult,Female,73.75071581632426,Normal,115/71,115,71,Normal,13,Normal,98.14383006553278,Normal,running,98.0,Normal,excellent,low,2024-04-25 07:13:55.288332
+413,40,Adult,Male,92.93177165852876,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.84987673674216,Fever,resting,98.0,Normal,fair,low,2024-04-25 07:08:55.288334
+414,79,Senior,Female,86.55535364379702,Normal,102/75,102,75,Normal,15,Normal,99.2154906559527,Fever,running,97.0,Normal,fair,high,2024-04-25 07:03:55.288337
+415,54,Adult,Male,97.66462802395918,Normal,129/82,129,82,High Blood Pressure (Hypertension) Stage 1,21,High,99.0809408935226,Fever,resting,98.0,Normal,good,moderate,2024-04-25 06:58:55.288339
+416,29,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.60916660783991,Fever,running,94.0,Low,excellent,moderate,2024-04-25 06:53:55.288342
+417,72,Senior,Female,74.10230395104504,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.92157930194332,Fever,resting,97.0,Normal,excellent,moderate,2024-04-25 06:48:55.288344
+418,30,Adult,Male,82.23134926858572,Normal,120/79,120,79,Elevated,17,High,98.33732182463127,Normal,resting,98.0,Normal,excellent,low,2024-04-25 06:43:55.288346
+419,40,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,98.51071327708988,Normal,running,97.0,Normal,good,high,2024-04-25 06:38:55.288364
+420,47,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,97.73881799857966,Normal,walking,95.0,Normal,fair,low,2024-04-25 06:33:55.288367
+421,34,Adult,Female,85.12149584976397,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.51472634997197,Normal,running,99.0,Normal,excellent,moderate,2024-04-25 06:28:55.288370
+422,79,Senior,Male,83.5106816848864,Normal,115/71,115,71,Normal,19,High,98.1946969401178,Normal,walking,99.0,Normal,excellent,moderate,2024-04-25 06:23:55.288372
+423,30,Adult,Female,85.50207170304185,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.32659393482938,Normal,resting,94.0,Low,poor,high,2024-04-25 06:18:55.288375
+424,76,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,98.55997583701216,Normal,running,96.0,Normal,excellent,low,2024-04-25 06:13:55.288377
+425,36,Adult,Female,91.29075189917027,Normal,122/61,122,61,Elevated,21,High,98.43900932578497,Normal,running,96.0,Normal,fair,moderate,2024-04-25 06:08:55.288380
+426,66,Senior,Male,67.73726311506469,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,22,High,98.89536261904324,Fever,running,98.0,Normal,fair,high,2024-04-25 06:03:55.288382
+427,29,Adult,Male,84.0701530788398,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.48821563054568,Normal,walking,96.0,Normal,poor,low,2024-04-25 05:58:55.288384
+428,78,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.67544237501288,Fever,walking,97.0,Normal,excellent,low,2024-04-25 05:53:55.288387
+429,36,Adult,Female,95.11684897369918,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.71310480584688,Fever,resting,96.0,Normal,excellent,moderate,2024-04-25 05:48:55.288389
+430,26,Adult,Male,67.48252102715377,Normal,125/63,125,63,Elevated,12,Normal,98.6868499477854,Fever,walking,94.0,Low,excellent,moderate,2024-04-25 05:43:55.288391
+431,45,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.88896009466136,Fever,walking,94.0,Low,good,low,2024-04-25 05:38:55.288393
+432,69,Senior,Female,75.0,Normal,134/81,134,81,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.57623141388812,Normal,resting,96.0,Normal,excellent,low,2024-04-25 05:33:55.288396
+433,33,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.01039721991675,Normal,running,99.0,Normal,fair,moderate,2024-04-25 05:28:55.288398
+434,29,Adult,Female,67.43508451159192,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,97.960238808676,Normal,running,98.0,Normal,fair,low,2024-04-25 05:23:55.288400
+435,42,Adult,Female,72.00471410419206,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,97.98800289001068,Normal,resting,96.0,Normal,good,moderate,2024-04-25 05:18:55.288403
+436,69,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,12,Normal,98.09958915512948,Normal,running,96.0,Normal,good,low,2024-04-25 05:13:55.288405
+437,70,Senior,Female,79.25723109114259,Normal,129/83,129,83,High Blood Pressure (Hypertension) Stage 1,21,High,98.19575343657388,Normal,walking,96.0,Normal,excellent,moderate,2024-04-25 05:08:55.288407
+438,40,Adult,Male,82.23979708357022,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,99.14167128945986,Fever,resting,96.0,Normal,poor,high,2024-04-25 05:03:55.288410
+439,33,Adult,Female,76.5932351212897,Normal,105/62,105,62,Normal,16,Normal,98.74876014275424,Fever,resting,96.0,Normal,good,moderate,2024-04-25 04:58:55.288412
+440,74,Senior,Male,86.88890460220676,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.58718427385266,Normal,resting,94.0,Low,good,moderate,2024-04-25 04:53:55.288414
+441,56,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.74393912026582,Fever,running,96.0,Normal,excellent,high,2024-04-25 04:48:55.288417
+442,70,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,98.67449146565605,Fever,resting,97.0,Normal,excellent,low,2024-04-25 04:43:55.288419
+443,59,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.93004023559172,Fever,resting,96.0,Normal,good,high,2024-04-25 04:38:55.288422
+444,75,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,21,High,98.48016482724412,Normal,resting,96.0,Normal,poor,moderate,2024-04-25 04:33:55.288424
+445,56,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,13,Normal,99.06932739920954,Fever,running,96.0,Normal,good,low,2024-04-25 04:28:55.288427
+446,31,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.08598304673475,Normal,walking,99.0,Normal,excellent,high,2024-04-25 04:23:55.288429
+447,22,Adult,Female,60.7331964921937,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,18,High,97.09489496581506,Normal,resting,98.0,Normal,excellent,low,2024-04-25 04:18:55.288431
+448,52,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.36161838602376,Normal,walking,96.0,Normal,good,low,2024-04-25 04:13:55.288433
+449,35,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,99.2908827967289,Fever,running,99.0,Normal,poor,high,2024-04-25 04:08:55.288436
+450,26,Adult,Male,92.8815729562221,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,99.14866788986453,Fever,running,96.0,Normal,good,low,2024-04-25 04:03:55.288438
+451,75,Senior,Female,75.0,Normal,113/60,113,60,Normal,19,High,99.05175278842871,Fever,running,96.0,Normal,good,high,2024-04-25 03:58:55.288440
+452,34,Adult,Male,86.91028464100248,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,99.27041107930286,Fever,running,99.0,Normal,excellent,moderate,2024-04-25 03:53:55.288443
+453,24,Adult,Male,86.02854790732891,Normal,140/65,140,65,High Blood Pressure (Hypertension) Stage 2,23,High,98.3496921151619,Normal,walking,96.0,Normal,poor,low,2024-04-25 03:48:55.288445
+454,63,Adult,Female,81.00809303103568,Normal,124/72,124,72,Elevated,22,High,98.98875292081466,Fever,resting,96.0,Normal,fair,moderate,2024-04-25 03:43:55.288448
+455,30,Adult,Male,68.93948476325512,Normal,107/80,107,80,High Blood Pressure (Hypertension) Stage 1,21,High,98.28356976432148,Normal,running,98.0,Normal,poor,moderate,2024-04-25 03:38:55.288450
+456,57,Adult,Male,97.4142543354753,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.62345916631764,Fever,running,99.0,Normal,good,low,2024-04-25 03:33:55.288452
+457,59,Adult,Male,69.78593928009089,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.96854506927556,Fever,walking,99.0,Normal,good,high,2024-04-25 03:28:55.288454
+458,26,Adult,Male,92.92951535516126,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,12,Normal,99.29135064383075,Fever,walking,96.0,Normal,good,low,2024-04-25 03:23:55.288457
+459,67,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,18,High,98.61395345604645,Fever,running,96.0,Normal,poor,moderate,2024-04-25 03:18:55.288460
+460,44,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.48954171200349,Normal,resting,98.0,Normal,excellent,moderate,2024-04-25 03:13:55.288462
+461,83,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.7285445519735,Fever,resting,96.0,Normal,good,high,2024-04-25 03:08:55.288465
+462,22,Adult,Female,99.07052710394346,Normal,117/88,117,88,High Blood Pressure (Hypertension) Stage 1,21,High,99.1658305060265,Fever,running,96.0,Normal,good,low,2024-04-25 03:03:55.288467
+463,46,Adult,Male,92.60054898401484,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,97.9393042339403,Normal,walking,96.0,Normal,poor,moderate,2024-04-25 02:58:55.288469
+464,54,Adult,Male,80.0,Normal,131/88,131,88,High Blood Pressure (Hypertension) Stage 1,15,Normal,97.6418007515177,Normal,running,96.0,Normal,fair,moderate,2024-04-25 02:53:55.288482
+465,55,Adult,Female,92.77534390061834,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,17,High,98.28205286114256,Normal,running,94.0,Low,fair,moderate,2024-04-25 02:48:55.288485
+466,25,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.2880234430899,Normal,walking,96.0,Normal,excellent,high,2024-04-25 02:43:55.288488
+467,82,Senior,Female,75.0,Normal,130/64,130,64,High Blood Pressure (Hypertension) Stage 1,19,High,98.16472153958814,Normal,running,96.0,Normal,excellent,moderate,2024-04-25 02:38:55.288490
+468,34,Adult,Male,84.51501542009461,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.86018808658216,Fever,running,96.0,Normal,good,moderate,2024-04-25 02:33:55.288492
+469,62,Adult,Female,75.0,Normal,101/70,101,70,Normal,17,High,98.39196840987114,Normal,running,96.0,Normal,poor,low,2024-04-25 02:28:55.288494
+470,21,Adult,Female,79.84836351871064,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,99.0138449795764,Fever,walking,96.0,Normal,good,low,2024-04-25 02:23:55.288497
+471,53,Adult,Female,63.44989660569672,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.82562088298216,Fever,resting,96.0,Normal,excellent,moderate,2024-04-25 02:18:55.288499
+472,48,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,98.66378966850502,Fever,resting,96.0,Normal,poor,moderate,2024-04-25 02:13:55.288501
+473,36,Adult,Male,88.96961787560289,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,20,High,99.06812870979776,Fever,walking,97.0,Normal,poor,low,2024-04-25 02:08:55.288503
+474,78,Senior,Male,75.0,Normal,120/68,120,68,Elevated,19,High,97.86947520413952,Normal,resting,96.0,Normal,excellent,high,2024-04-25 02:03:55.288506
+475,71,Senior,Male,98.28993542700256,Normal,127/66,127,66,Elevated,21,High,99.01076331335705,Fever,running,94.0,Low,fair,high,2024-04-25 01:58:55.288508
+476,56,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,23,High,98.2220918538109,Normal,resting,96.0,Normal,fair,high,2024-04-25 01:53:55.288510
+477,36,Adult,Male,80.15311392611153,Normal,103/63,103,63,Normal,21,High,98.8095387361502,Fever,running,94.0,Low,poor,high,2024-04-25 01:48:55.288512
+478,56,Adult,Male,78.62250030908707,Normal,139/76,139,76,High Blood Pressure (Hypertension) Stage 1,12,Normal,97.6152241346742,Normal,resting,96.0,Normal,good,high,2024-04-25 01:43:55.288515
+479,84,Senior,Male,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,97.48321943530286,Normal,walking,94.0,Low,fair,high,2024-04-25 01:38:55.288517
+480,62,Adult,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,20,High,99.15208293122886,Fever,resting,98.0,Normal,good,high,2024-04-25 01:33:55.288519
+481,30,Adult,Female,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.95716003173015,Fever,resting,96.0,Normal,fair,high,2024-04-25 01:28:55.288522
+482,75,Senior,Male,74.08891911879915,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.185091512357,Normal,resting,96.0,Normal,fair,low,2024-04-25 01:23:55.288524
+483,37,Adult,Male,80.0,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,19,High,98.00660477137416,Normal,walking,94.0,Low,good,high,2024-04-25 01:18:55.288526
+484,78,Senior,Female,75.0,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,23,High,99.1904577287716,Fever,resting,99.0,Normal,excellent,high,2024-04-25 01:13:55.288529
+485,56,Adult,Male,80.0,Normal,113/66,113,66,Normal,12,Normal,97.99927949218188,Normal,walking,96.0,Normal,fair,high,2024-04-25 01:08:55.288531
+486,18,Adult,Male,90.15549258080463,Normal,110/70,110,70,Normal,21,High,99.1683270621615,Fever,running,95.0,Normal,fair,moderate,2024-04-25 01:03:55.288533
+487,20,Adult,Male,66.70685423151495,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.40067966035342,Normal,resting,99.0,Normal,good,low,2024-04-25 00:58:55.288535
+488,79,Senior,Female,82.83690399277121,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,99.07547245811514,Fever,walking,96.0,Normal,excellent,low,2024-04-25 00:53:55.288537
+489,80,Senior,Female,64.37428327014513,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,17,High,98.35580716523408,Normal,walking,97.0,Normal,fair,low,2024-04-25 00:48:55.288540
+490,42,Adult,Female,80.0,Normal,109/82,109,82,High Blood Pressure (Hypertension) Stage 1,18,High,98.90537716779892,Fever,resting,95.0,Normal,fair,high,2024-04-25 00:43:55.288542
+491,73,Senior,Female,67.98405471736676,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,15,Normal,98.34167656158952,Normal,running,96.0,Normal,excellent,high,2024-04-25 00:38:55.288544
+492,50,Adult,Female,70.95988827778005,Normal,104/60,104,60,Normal,18,High,98.09165302631514,Normal,walking,99.0,Normal,fair,moderate,2024-04-25 00:33:55.288547
+493,55,Adult,Male,99.15473661529523,Normal,112/80,112,80,High Blood Pressure (Hypertension) Stage 1,20,High,98.55056452349588,Normal,resting,99.0,Normal,excellent,low,2024-04-25 00:28:55.288549
+494,23,Adult,Female,74.27743159734348,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,22,High,97.96360315040044,Normal,running,96.0,Normal,excellent,high,2024-04-25 00:23:55.288551
+495,75,Senior,Male,63.04624815453931,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,13,Normal,98.79967599802102,Fever,walking,96.0,Normal,good,low,2024-04-25 00:18:55.288553
+496,61,Adult,Male,85.07782008736932,Normal,135/76,135,76,High Blood Pressure (Hypertension) Stage 1,22,High,98.2437799414228,Normal,walking,96.0,Normal,poor,moderate,2024-04-25 00:13:55.288556
+497,62,Adult,Female,99.9255076913471,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,98.8595373053699,Fever,running,97.0,Normal,excellent,moderate,2024-04-25 00:08:55.288558
+498,49,Adult,Female,98.6193226438328,Normal,120/80,120,80,High Blood Pressure (Hypertension) Stage 1,16,Normal,98.2281685722534,Normal,running,99.0,Normal,good,moderate,2024-04-25 00:03:55.288560
+499,62,Adult,Male,99.24876349323048,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,14,Normal,97.18576420204344,Normal,resting,96.0,Normal,poor,low,2024-04-24 23:58:55.288562
+500,78,Senior,Male,81.23440053807133,Normal,130/85,130,85,High Blood Pressure (Hypertension) Stage 1,22,High,98.61451655627124,Fever,resting,94.0,Low,fair,high,2024-04-24 23:53:55.288565
